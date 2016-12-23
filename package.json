@@ -1,0 +1,11 @@
+{
+  "name": "bandlabtest",
+  "version": "1.0.0",
+  "description": "Coding test for bl",
+  "main": "handler.js",
+  "author": "Jason Nathan",
+  "license": "UNLICENSED",
+  "dependencies": {
+    "node-fetch": "^1.6.3"
+  }
+}
